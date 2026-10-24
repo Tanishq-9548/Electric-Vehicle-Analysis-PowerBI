@@ -55,10 +55,13 @@ Users can filter the dashboard by:
 
 ## 📁 Repository Contents
 
+## 📁 Project Files
 - `Electric_Vehicle_Analysis.pbix` — Power BI dashboard project.
 - `dashboard.png` — Dashboard preview.
-- `Dataset.xlsx` — Source dataset, if included.
-- `README.md` — Project documentation.
+
+## 📊 Dataset
+The dashboard was developed using an electric vehicle dataset.
+The dataset is not included in this repository due to its file size.
 
 ## 🚀 How to Run the Project
 
