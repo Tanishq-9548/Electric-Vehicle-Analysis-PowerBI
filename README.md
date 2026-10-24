@@ -85,6 +85,12 @@ The dataset is not included in this repository due to its file size.
 **Tool:** Microsoft Power BI  
 **Project Type:** Data Analytics and Visualization
 
+## 📥 Download Project Files
+
+The Power BI project file and dataset are available on Google Drive.
+
+[Download Power BI Project Files](https://drive.google.com/drive/folders/1ACsfr1MvNczwW6nJtHvwrWVcLAZgdhYA?usp=drive_link)
+
 ## 📝 Disclaimer
 
 This dashboard is intended for educational and analytical purposes. The displayed figures are based on the project's dataset and dashboard calculations.
